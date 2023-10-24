@@ -5,7 +5,7 @@
 
 **`¡BIENVENIDA! 👋🏼`**
 
-Bienvenidos a uno de mis primeros proyectos de ***Kotlin***. 
+Bienvenidos a uno de mis primeros proyectos de ***Java***. 
 
 Soy David González, desarrollador de software. Estoy empezando mi carrera como desarrollador de software y comparto mís primeros proyectos en GitHub  **iOS** y **Android**.
 
