@@ -12,12 +12,19 @@ Soy David González, desarrollador de software. Estoy empezando mi carrera como 
 ## Descripción
 
 Este es mi proyecto de fin de grado superior "DAM". Es funcional desde la version 24 de android, espero que os guste.
+
 Proyecto en figma incluido en:
+
 https://www.figma.com/file/0z0rlcuJ0W4BCKm0Y4MoYa/Carga-Inicio?type=design&node-id=0-1&mode=design
+
 La memoria del proyecto y la presentacion estan incluidas.
+
 https://github.com/djvirux/Mypets/tree/main/Memoria
+
 https://github.com/djvirux/Mypets/tree/main/Presentacion
+
 Subido a la PlayStore
+
 https://play.google.com/store/apps/details?id=com.thevalleysoftware.sweetpets&hl=es&gl=US
 
 
